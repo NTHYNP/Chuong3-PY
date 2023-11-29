@@ -5,6 +5,6 @@ st1 = st.title().strip()
 print(st1)
 
 # Chuẩn hóa chuỗi 2
-
+print("===================================")
 st2 = st.strip().upper().replace(' ', '-')
 print(st2)
